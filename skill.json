@@ -1,0 +1,9 @@
+{
+  "name": "genpark-multi-agent-token-bucket-gossip-protocol-skill",
+  "version": "1.0.0",
+  "description": "Peer-to-peer epidemic gossip protocol engine with token-bucket rate limiting for bounded network dissemination in autonomous agent swarms.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
